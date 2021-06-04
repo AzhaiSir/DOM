@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+<body>
+    <div>
+        <div id="test"><span>test</span>
+            <p class="red">段落标签3</p>test2
+        </div>
+        <div id="test2">
+            <p class="red">段落标签3</p>test2
+        </div>
+    </div>
+    <div id="empty">
+        <div id="e1"></div>
+        <div id="e2"></div>
+        <div id="e3"></div>
+    </div>
+    <div id="siblings">
+        <div id="s1"></div>
+        <div id="s2"></div>
+        <div id="s3"></div>
+    </div>
+    <script src="95813b207155e68b7a9a547edc486220"></script>
+    <script src="050f667e079614d598ce9c8deb1fba5f"></script>
+</body>
+</html>

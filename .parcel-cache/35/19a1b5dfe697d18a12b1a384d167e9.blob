@@ -1,0 +1,19 @@
+const div = dom.create(`<div>newDiv</div>`)
+console.log(div)
+
+dom.after(test, div)
+
+const div3 = dom.create('<div id = "parent"></div>')
+dom.wrap(test, div3)
+
+const nodes = dom.empty(window.empty)
+console.log(empty)
+
+dom.attr(test, 'title','History, I am ChengXin')
+const title = dom.attr(test, 'title')
+console.log(`title:${title}`)
+
+dom.text(test, '你好，这是新的文本内容')
+dom.text(test)
+
+dom.style(test, {border:''})
