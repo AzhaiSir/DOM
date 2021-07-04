@@ -1,5 +1,0 @@
-window.dom = {
-    create(tagName){
-        return document.createE
-    }
-}

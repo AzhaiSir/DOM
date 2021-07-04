@@ -1,2 +1,0 @@
-const div = dom.create(`<td><td></td></td>`)
-console.log(div)

@@ -1,2 +1,0 @@
-const div = dom.create(`<div><span></spann></div>`)
-console.log(div)
